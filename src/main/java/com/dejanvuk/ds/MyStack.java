@@ -1,4 +1,4 @@
-package com.dejanvuk.ds.lists;
+package com.dejanvuk.ds;
 
 public class MyStack<E> {
     private class StackNode<T> {

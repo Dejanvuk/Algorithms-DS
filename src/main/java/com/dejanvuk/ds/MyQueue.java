@@ -1,4 +1,4 @@
-package com.dejanvuk.ds.lists;
+package com.dejanvuk.ds;
 
 public class MyQueue<E> {
     public class MyQueueNode<T> {
